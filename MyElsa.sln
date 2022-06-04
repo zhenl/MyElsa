@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyElsaServer", "MyElsaServer\MyElsaServer.csproj", "{24BB263C-D396-429E-BA92-B07B192DEFA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyElsaDashboard", "MyElsaDashboard\MyElsaDashboard.csproj", "{F5D726BE-72DC-4F3A-9E6B-DB0D834FAB50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BB263C-D396-429E-BA92-B07B192DEFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BB263C-D396-429E-BA92-B07B192DEFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BB263C-D396-429E-BA92-B07B192DEFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BB263C-D396-429E-BA92-B07B192DEFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D726BE-72DC-4F3A-9E6B-DB0D834FAB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D726BE-72DC-4F3A-9E6B-DB0D834FAB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D726BE-72DC-4F3A-9E6B-DB0D834FAB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D726BE-72DC-4F3A-9E6B-DB0D834FAB50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9022815C-A108-461C-9ADF-4B238DCF8E37}
+	EndGlobalSection
+EndGlobal
