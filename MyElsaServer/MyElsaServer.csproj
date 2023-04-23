@@ -7,10 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Elsa" Version="2.8.1" />
-    <PackageReference Include="Elsa.Activities.Http" Version="2.8.1" />
-    <PackageReference Include="Elsa.Persistence.EntityFramework.Sqlite" Version="2.8.1" />
-    <PackageReference Include="Elsa.Server.Api" Version="2.8.1" />
+    <PackageReference Include="Elsa" Version="2.11.1" />
+    <PackageReference Include="Elsa.Activities.Http" Version="2.11.1" />
+    <PackageReference Include="Elsa.Persistence.EntityFramework.Sqlite" Version="2.11.1" />
+    <PackageReference Include="Elsa.Server.Api" Version="2.11.1" />
   </ItemGroup>
 
 </Project>
