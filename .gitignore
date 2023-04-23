@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/MyElsaServer/elsa.sqlite.db-wal
+/MyElsaServer/elsa.sqlite.db-shm
+/MyElsaServer/elsa.sqlite.db
